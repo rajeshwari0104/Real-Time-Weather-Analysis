@@ -92,7 +92,7 @@ python main.py
 ## 👨‍💻 Author
 
 **Name:** Anas Ali  
-**Gmail:** 
+**Gmail:** anaskhanop007@gmail.com
 
 
 
