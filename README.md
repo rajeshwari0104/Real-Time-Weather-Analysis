@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Real-Time-Weather-Analysis
 =======
 # Real-Time Weather Data Analysis 🌦️
@@ -97,3 +98,6 @@ python main.py
 
 
 >>>>>>> 279ac23 (Updated the content of the README.md file)
+=======
+# Real-Time-Weather-Analysis
+>>>>>>> 1b4e02796042495facc29029243cac284ebb49ac
