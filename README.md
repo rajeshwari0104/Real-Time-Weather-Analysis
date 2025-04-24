@@ -1,8 +1,3 @@
-# Real-Time Weather Data Analysis 🌦️
-
-This project analyzes a real-time weather dataset to uncover trends and visualize key metrics like temperature, humidity, pressure, and more.
-
-
 # 🌤️ Real-Time Weather Pattern Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
