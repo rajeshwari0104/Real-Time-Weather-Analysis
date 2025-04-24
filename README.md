@@ -72,7 +72,7 @@ weather-analysis/
 
 ```powershell
 # 1. Clone the repository
-git clone https://github.com/anrajeshwari0104/Real-Time-Weather-Analysis.git
+git clone https://github.com/rajeshwari0104/Real-Time-Weather-Analysis.git
 cd Real-Time-Weather-Analysis
 
 # 3. Install all required libraries
