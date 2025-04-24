@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Real-Time-Weather-Analysis
-=======
 # Real-Time Weather Data Analysis 🌦️
 
 This project analyzes a real-time weather dataset to uncover trends and visualize key metrics like temperature, humidity, pressure, and more.
@@ -81,7 +77,7 @@ weather-analysis/
 
 ```powershell
 # 1. Clone the repository
-git clone https://github.com/anasalyyy/Real-Time-Weather-Analysis.git
+git clone https://github.com/anrajeshwari0104/Real-Time-Weather-Analysis.git
 cd Real-Time-Weather-Analysis
 
 # 3. Install all required libraries
@@ -92,12 +88,10 @@ python main.py
 
 ## 👨‍💻 Author
 
-**Name:** Anas Ali  
-**Gmail:** anaskhanop007@gmail.com
+**Name:** Rajeshwari Thapa  
+**Gmail:** thaparajeshwari0104@gmail.com
 
 
 
->>>>>>> 279ac23 (Updated the content of the README.md file)
-=======
-# Real-Time-Weather-Analysis
->>>>>>> 1b4e02796042495facc29029243cac284ebb49ac
+
+
